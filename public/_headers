@@ -1,6 +1,7 @@
 /*
   X-Shared-Header: Site A /*
   X-Site-A-Generic: true
-/b*
-  X-Shared-Header: Site A /b*
-  X-Site-A-Specific: true
+# Uncommenting below lines should overwrite Site B's defaults
+# /b*
+#   X-Shared-Header: Site A /b*
+#   X-Site-A-Specific: true
